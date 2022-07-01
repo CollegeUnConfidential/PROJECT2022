@@ -167,3 +167,5 @@ cython_debug/
 *deactivate
 *.exe
 *.pdf
+*.bat
+*.ps1
